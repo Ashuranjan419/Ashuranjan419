@@ -1,7 +1,3 @@
-# 💫 About Me:
-💫 About Me :<br><br>🛠 I’m currently working on  <br>- Splitr — a smart bill-splitting web app using Next.js, Clerk & Convex  <br>- Sports Injury Prediction & Tracking Web App using ML (RF, XGBoost)  <br>- Cloud Type Classification using deep learning (CNN)<br><br>🤝 I’m looking to collaborate on  <br>- Full-stack projects (React, Next.js, Node.js)  <br>- Machine Learning & Deep Learning projects  <br><br>🆘 I’m looking for help with<br>- Improving model accuracy for ML/DL projects  <br>- Advanced backend optimization & devops workflows  <br><br>🌱 I’m currently learning<br>- AWS Cloud (Certified Cloud Practitioner)  <br>- FastAPI, scalable backend design, CI/CD pipelines  <br><br>💬 Ask me about <br>- Full-stack development (Next.js, React, Node.js)  <br>- Machine Learning & model deployment  <br>- Cloud computing & real-world project development  <br><br>⚡ Fun fact<br>- I love playing football and never miss a friendly weekend match! ⚽🔥<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-ranjan-028726250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjanashutosh419@gmail.com) 
 
